@@ -16,3 +16,4 @@
 - README を書いて 目的を説明できる状態 にした
 - Git のエラーを理解して解決した
 - Progate で PHP のお問い合わせフォーム実装を学習
+- Progate で GET / POST を学習
