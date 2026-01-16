@@ -17,3 +17,7 @@
 - Git のエラーを理解して解決した
 - Progate で PHP のお問い合わせフォーム実装を学習
 - Progate で GET / POST を学習
+- Progate PHP コース（基礎編）修了
+  - PHP の基本文法
+  - フォーム送信（GET / POST）
+  - 簡単なお問い合わせフォームの作成
